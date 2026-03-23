@@ -1,1 +1,1 @@
-# repo-remoto
+Teste de conflito entre versoes.
