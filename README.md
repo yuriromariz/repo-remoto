@@ -1,1 +1,2 @@
-Teste de conflito entre versoes.
+# teste entre versoes 
+descrição inserida depois do clone.
